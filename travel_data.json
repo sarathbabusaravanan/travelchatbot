@@ -1,0 +1,38 @@
+{
+  "Goa": {
+    "places_to_visit": [
+      {"name": "Baga Beach", "description": "A popular beach known for nightlife and water sports."},
+      {"name": "Fort Aguada", "description": "A historic fort with scenic views of the Arabian Sea."}
+    ],
+    "restaurants": [
+      {"name": "Fisherman's Wharf", "cuisine": "Seafood", "description": "A riverside seafood restaurant.", "price_range": "mid-range"},
+      {"name": "Pousada by the Beach", "cuisine": "Goan", "description": "Authentic Goan cuisine with a beachfront view.", "price_range": "luxury"}
+    ],
+    "famous_foods": [
+      {"name": "Pork Vindaloo", "description": "A spicy and tangy pork dish."},
+      {"name": "Bebinca", "description": "A traditional Goan dessert made of coconut milk and jaggery."}
+    ],
+    "hotels": [
+      {"name": "Taj Resort & Spa", "rating": 5, "price_range": "luxury", "description": "A beachfront luxury resort."},
+      {"name": "The Zuri White Sands", "rating": 4, "price_range": "mid-range", "description": "A comfortable stay with casino and spa."}
+    ]
+  },
+  "Paris": {
+    "places_to_visit": [
+      {"name": "Eiffel Tower", "description": "An iconic landmark of France offering breathtaking views."},
+      {"name": "Louvre Museum", "description": "World-famous museum housing the Mona Lisa."}
+    ],
+    "restaurants": [
+      {"name": "Le Meurice", "cuisine": "French", "description": "A Michelin-starred restaurant with classic French cuisine.", "price_range": "luxury"},
+      {"name": "Bistrot Paul Bert", "cuisine": "Bistro", "description": "A traditional Parisian bistro with a cozy ambiance.", "price_range": "mid-range"}
+    ],
+    "famous_foods": [
+      {"name": "Croissant", "description": "A buttery and flaky pastry."},
+      {"name": "Coq au Vin", "description": "A classic French dish of chicken braised in red wine."}
+    ],
+    "hotels": [
+      {"name": "Hotel Ritz Paris", "rating": 5, "price_range": "luxury", "description": "A prestigious hotel with elegant rooms."},
+      {"name": "Hotel Le Six", "rating": 4, "price_range": "mid-range", "description": "A boutique hotel with modern amenities."}
+    ]
+  }
+}
